@@ -13,7 +13,7 @@ function correct_guess {
 	echo "Too high!"
     else
 	echo ""
-	echo "Congrats! Your Right!"
+	echo "Congrats! You're Right!"
     fi
 }
 
